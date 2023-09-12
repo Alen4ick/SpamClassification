@@ -1,1 +1,1 @@
-Here will be project, which solves defines spam messages.
+Here will be project, which defines spam messages.
